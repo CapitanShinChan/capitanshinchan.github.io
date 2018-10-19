@@ -6,7 +6,7 @@
 name: CapitanShinChan Crazy Shit (CSCS)
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: I try to be a security something
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: ![_config.yml]({{ site.baseurl }}images/capitanshinchan.jpg
@@ -21,7 +21,7 @@ footer-links:
   email: capitan.shinchan@gmail.com
   facebook:
   flickr:
-  github: githum.com/CapitanShinChan
+  github: CapitanShinChan
   instagram:
   linkedin:
   pinterest:
